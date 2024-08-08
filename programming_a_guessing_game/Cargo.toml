@@ -2,5 +2,7 @@
 name = "programming_a_guessing_game"
 version = "0.1.0"
 edition = "2021"
+authors = ["martin kemei"]
 
 [dependencies]
+rand = "0.8.5"
