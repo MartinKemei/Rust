@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, Cargo! 💯");
+    println!("Hello, Cargo is so cool! 💯");
+    println!("Installed from VsCode");
 }
