@@ -2,3 +2,5 @@
 ## Let's get rusty.
 Introduction to Rust following through with 'The Book'.
 Step by step.
+
+To the end.
